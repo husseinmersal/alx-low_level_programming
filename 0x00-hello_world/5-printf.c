@@ -1,12 +1,10 @@
 #include<stdio.h>
-/*
- * new description
- * another description
- * last description
+/**
+ * main - entry point
+ * Return: always 0 (success)
  */
 int main(void)
 {
-	/* comment */
-	printf("with proper grammar, but the outcome is a piece of art, ");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
