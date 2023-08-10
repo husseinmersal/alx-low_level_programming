@@ -1,8 +1,10 @@
-$include <stdio.h>
-int main()
+#include <stdio.h>
+/*
+ * description for hello world
+ * another description
+ */
+int main(void)
 {
-	
-    puts("\"Programming is like building a multilingual puzzle"); 
-
-    return 0;
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
